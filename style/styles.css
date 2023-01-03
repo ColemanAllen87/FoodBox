@@ -124,12 +124,12 @@ body {
   justify-content: center;
   height: 100%;
   font-size: 1.6rem;
+  background-color: rgba(225,225,225, 0.4);
 }
 
 .main-title {
   text-transform: uppercase;
   margin-top: 1.5em;
-  background-color: rgba(225,225,225, 0.4);
 }
 
 /* ......//about us//...... */
