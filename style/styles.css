@@ -38,11 +38,11 @@ body {
 
 .btn-primary {
   color: #fff;
-  background: #16a083;
+  background: #FFB100;
 }
 
 .btn-primary:hover {
-  background: #117964;
+  background: #FBC252;
   transition: background 0.3s ease-in-out;
 }
 
@@ -87,13 +87,13 @@ body {
 
 .menu-items a {
   text-decoration: none;
-  color: #444;
+  color: #FFB100;
   font-weight: 500;
   transition: color 0.3s ease-in-out;
 }
 
 .menu-items a:hover {
-  color: #117964;
+  color: #FBC252;
   transition: color 0.3s ease-in-out;
 }
 
@@ -155,7 +155,7 @@ body {
 
 #about .small {
   font-size: 1.2rem;
-  color: #666;
+  color: #a18e0c;
   font-weight: 600;
 }
 
@@ -207,7 +207,7 @@ body {
   font-weight: 400;
   margin-bottom: 40px;
   text-transform: uppercase;
-  color: #555;
+  color: #a18e0c;
 }
 
 .food-container {
@@ -282,7 +282,7 @@ body {
   text-align: center;
   font-size: 3.4rem;
   font-weight: 400;
-  color: #666;
+  color: #a18e0c;
 }
 
 .food-menu-container {
@@ -324,7 +324,7 @@ body {
 }
 
 .food-description .food-price {
-  color: #117964;
+  color: #FFB100;
   font-weight: 700;
 }
 
