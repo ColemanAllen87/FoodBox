@@ -214,7 +214,9 @@ body {
   display: flex;
   justify-content: space-between;
 }
-
+.food-titile {
+  color:#FBC252;
+}
 .food-container img {
   display: block;
   width: 100%;
