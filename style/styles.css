@@ -129,7 +129,7 @@ body {
 .main-title {
   text-transform: uppercase;
   margin-top: 1.5em;
-  background-color: white;
+  background-color: rgba(225,225,225, 0.4);
 }
 
 /* ......//about us//...... */
